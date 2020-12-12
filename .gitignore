@@ -1,0 +1,10 @@
+# Directories #
+/bin/
+
+
+
+# eclipse Files #
+README.md
+LICENSE
+.project
+.classpath
